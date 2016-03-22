@@ -1,1 +1,210 @@
 /* Ingresa tu css aqui */
+*{
+	margin: 0 auto;
+	width: 910px;
+}
+
+.imagen1{
+	width: 900px;
+	height: 150px;
+}
+
+.barramenu{
+	width: 855px;
+	height: 50px;
+	border-top: 1px black solid;
+	border-bottom: 1px black solid;
+	margin-bottom: 10px;
+	padding:15px;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+.menu2{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	padding:10px;
+	margin-right:20px;
+}
+
+.menu3{
+	border-right: 1px solid black;
+	padding:10px;
+	margin-left:20px; 
+}
+
+.menu1{
+	margin-right:20px;
+	margin-left: 20px;
+	padding-right: 20px;
+}
+
+
+ul{
+	list-style: none;
+	margin-top: 15px;
+
+}
+
+li{
+	display: inline;
+	margin: 30px;
+	padding:30px;
+}
+
+.imagen2{
+	width: 900px;
+	height: 550px;
+	margin-bottom: 20px;
+}
+
+
+.parrafo1{
+	width: 500px;
+	height: 260px;
+	border:transparent solid 1px;
+	font-size: 28px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.linea1{
+	width: 100px;
+	background-color: black solid;
+	border:black solid 0.5px;
+}
+
+.linea2{
+	width: 100px;
+	background-color: black solid;
+	border:black solid 2px;
+	float: left;
+}
+
+.cajafotos{
+	width: 900px;
+	height: 600px;
+	border: 1px solid black;
+	margin-top: 20px;
+	position: relative;
+}
+
+.fotofoto{
+	width: 250px;
+	height: 250px;
+	border:1px transparent solid;
+	display: inline-block;
+}
+
+span{
+	position: absolute;
+}
+
+.foto_arriba{
+	margin:18px;
+	display: inline-block;
+	height: 260px;
+	width: 260px;
+	position: relative;
+}
+
+.foto_abajo{
+	margin:18px;
+	display: inline-block;
+	height: 260px;
+	width: 260px;
+	position: relative;
+}
+
+
+
+.nombre1{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color:white;
+	position: absolute;
+	top: 1380px;
+	left:320px;
+}
+
+.nombre2{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color:white;
+	position: absolute;
+	top: 1380px;
+	left:620px;
+}
+
+.nombre3{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color:white;
+	position: absolute;
+	top: 1380px;
+	left:920px;
+}
+
+.nombre4{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color: white;
+	position: absolute;
+	top: 1680px;
+	left:320px;
+}
+
+.nombre5{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color:white;
+	position: absolute;
+	top: 1680px;
+	left:620px;
+}
+
+.nombre6{
+	width: 200px;
+	height: 20px;
+	border:transparent solid 1px;
+	background-color: transparent;
+	color:white;
+	position: absolute;
+	top: 1680px;
+	left:920px;
+}
+
+.container{
+	width: 900px;
+	height: 600px;
+	margin-top: 20px;
+}
+
+/*Fin de página index*/
+
+/*Comienzo página coder-detail*/
+
+*{
+	margin:0 auto;
+	width: 1000px;
+	height: 1000px;
+}
+
+.primerafoto{
+	border-radius: 100%;
+}
